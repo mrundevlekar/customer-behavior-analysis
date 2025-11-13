@@ -1,10 +1,12 @@
 Customer Behavior Analysis – End-to-End Data Analytics Project
-Overview
+
+
+#Overview
 This project presents a complete data analytics pipeline focused on understanding customer purchasing behavior.
 It covers Python-based data loading & cleaning, Exploratory Data Analysis (EDA), SQL-based business insights, and an interactive Power BI dashboard.
 The objective is to identify spending patterns, customer segments, discount impact, shipping preferences, and product performance.
 
-Dataset
+#Dataset
 The dataset (loaded in Python and used across SQL & Power BI) includes customer-level purchase information with fields such as:
 Customer demographics: gender, age group
 Purchase details: item purchased, category, purchase amount
@@ -21,7 +23,7 @@ Power BI – Data visualisation dashboard
 Jupyter Notebook – Python analysis (customer_analysis_py.ipynb)
 GitHub – Version control
 
-Steps Performed
+#Steps Performed
 1. Data Loading (Python)
 Loaded dataset using Pandas.
 Inspected structure, missing values, and summary statistics.
